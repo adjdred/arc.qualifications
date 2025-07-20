@@ -1,0 +1,19 @@
+{
+  "name": "C# (.NET 9)",
+  "image": "mcr.microsoft.com/dotnet/sdk:9.0",
+  "features": {
+    "ghcr.io/devcontainers/features/dotnet:2": {
+      "version": "9.0"
+    }
+  },
+  "postCreateCommand": "dotnet --version",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp"
+      ]
+    }
+  },
+  "forwardPorts": [5000]
+}
