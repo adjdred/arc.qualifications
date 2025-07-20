@@ -1,0 +1,62 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "Acr.Qualifications.Domain": {
+      "path": "src/Acr.Qualifications.Domain/Acr.Qualifications.Domain.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.Application.Contracts": {
+      "path": "src/Acr.Qualifications.Application.Contracts/Acr.Qualifications.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.Application": {
+      "path": "src/Acr.Qualifications.Application/Acr.Qualifications.Application.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.EntityFrameworkCore": {
+      "path": "src/Acr.Qualifications.EntityFrameworkCore/Acr.Qualifications.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.HttpApi": {
+      "path": "src/Acr.Qualifications.HttpApi/Acr.Qualifications.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.HttpApi.Client": {
+      "path": "src/Acr.Qualifications.HttpApi.Client/Acr.Qualifications.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.Web": {
+      "path": "src/Acr.Qualifications.Web/Acr.Qualifications.Web.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.TestBase": {
+      "path": "test/Acr.Qualifications.TestBase/Acr.Qualifications.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Acr.Qualifications.EntityFrameworkCore.Tests": {
+      "path": "test/Acr.Qualifications.EntityFrameworkCore.Tests/Acr.Qualifications.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Acr.Qualifications.Domain.Tests": {
+      "path": "test/Acr.Qualifications.Domain.Tests/Acr.Qualifications.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Acr.Qualifications.Application.Tests": {
+      "path": "test/Acr.Qualifications.Application.Tests/Acr.Qualifications.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Acr.Qualifications.Domain.Shared": {
+      "path": "src/Acr.Qualifications.Domain.Shared/Acr.Qualifications.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Acr.Qualifications.Installer": {
+       "path": "src/Acr.Qualifications.Installer/Acr.Qualifications.Installer.abppkg",
+       "folder": "src"
+    }
+  }
+}

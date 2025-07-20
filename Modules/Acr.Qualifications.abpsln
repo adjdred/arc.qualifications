@@ -1,0 +1,9 @@
+{
+  "id": "4f983d98-9241-4cd9-857e-fc344300119f",
+  "template": "empty",
+  "modules": {
+    "Acr.Qualifications": {
+      "path": "Acr.Qualifications.abpmdl"
+    }
+  }
+}
