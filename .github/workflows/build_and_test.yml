@@ -22,10 +22,10 @@ jobs:
         dotnet-version: 9.0.x
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: modules/Arc.Qualifications
+      working-directory: Modules/Arc.Qualifications
     - name: Build
       run: dotnet build --no-restore
-      working-directory: modules/Arc.Qualifications
+      working-directory: Modules/Arc.Qualifications
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      working-directory: modules/Arc.Qualifications
+      working-directory: Modules/Arc.Qualifications
